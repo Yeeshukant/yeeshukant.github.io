@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://x.com/Yeeshukant01"
+      url: "https://x.com/Yeeshukant01"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:  "https://instagram.com/yeeshukant01"
 
 
 # Reading Files
@@ -324,3 +324,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "/docs/_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
