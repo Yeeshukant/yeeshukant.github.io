@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Yeeshukant Singh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Punjabi at Heart Soldier in Mind"
+  avatar           : "/assets/Avatar.png" # path of avatar image, e.g. 
+  bio              : "Punjabi at Heart, Soldier in Mind"
   location         : "YKS Garage"
   email            : 
   links:
