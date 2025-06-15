@@ -1,1 +1,0 @@
-The age of resolve – Does early childhood years determine the capability of our resolve.
