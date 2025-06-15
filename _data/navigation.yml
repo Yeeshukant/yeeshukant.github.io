@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Add title with link?"
+  - title: "Home"
     url: https://yeeshukant.github.io/#
   - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-  #   url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Posts"
+    url: /year-archive/
+  # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Sitemap"
   #   url: /sitemap/
