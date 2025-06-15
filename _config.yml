@@ -315,7 +315,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/docs/"
+      path: ""
       type: posts
     values:
       layout: single
@@ -326,7 +326,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "/docs/"
+      path: ""
       type: pages
     values:
       layout: single
