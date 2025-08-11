@@ -1,4 +1,11 @@
-Kerala, is it the perfect place to travel and stay in india?
+---
+title: "Kerala, is it the perfect place to travel and stay in india?"
+categories:
+  - Country
+tags:
+  - Observation
+  - Travel
+---
 
 1.	Rare to no garbage dumps.
 2.	Greenery all around
