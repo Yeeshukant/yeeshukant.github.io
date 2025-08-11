@@ -23,7 +23,7 @@ subtitle                 : Discover the lost
 name                     : "Yeeshukant Singh"
 description              : "May lost machines find peace"
 url                      : "https://yeeshukant.github.io/"
-baseurl                  : # "https://yeeshukant.github.io/"
+baseurl                  : "/"
 repository               : "Yeeshukant/yeeshukant.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "yeeshukant01"
 facebook:
   username               :
   app_id                 :
@@ -141,7 +141,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
@@ -184,15 +184,12 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
-  - minimal-mistakes-jekyll.gemspec
   - node_modules
   - package.json
   - package-lock.json
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -227,7 +224,7 @@ sass:
 
 
 # Outputting
-permalink: /:year/:month/:title.md
+permalink: /:year/:month/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -240,7 +237,7 @@ paginate_path: /page:num/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
-  # enabled: true
+  enabled: false
   debug: false
   collection: 'posts'
   per_page: 10
@@ -310,6 +307,17 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+# collections:
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
+#  pets:
+#    output: true
+#    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -326,7 +334,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
