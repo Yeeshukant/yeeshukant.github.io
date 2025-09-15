@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://yeeshukant.github.io/#
+    url: https://yeeshukant.github.io/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://yeeshukant.github.io/about/
   - title: "Posts"
     url: /year-archive/
   - title: "Futute tag"
-    url: /futuretag/
+    url: /_pages/futuretag/
   # - title: "Sitemap"
   #   url: /sitemap/
