@@ -1,3 +1,9 @@
-The lost glory - While Haryana is churning out athletes and sportspersons what is Punjab youth doing?
-
-Thinking about moving abroad or doing kala/chitta?
+---
+title: "My SSB Journey...From Screen-out and Conference-out to recommendation?"
+categories:
+  - Personal experiences
+tags:
+  - Career
+  - Self Improvement
+---
+Anyone who treads the path of SSB comes out changed positively.
