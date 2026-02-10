@@ -89,7 +89,7 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
+instagram:
   username               : "yeeshukant01"
 facebook:
   username               :
@@ -121,13 +121,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:yeshukant47@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Yeeshukant01"
+      # url: "https://x.com/Yeeshukant01"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/Yeeshukant"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/yeeshukant01"
+      url: "https://instagram.com/yeeshukant01"
 
 # Site Footer
 footer:
