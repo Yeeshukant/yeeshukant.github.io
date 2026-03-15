@@ -1,3 +1,16 @@
-The lost glory - While Haryana is churning out athletes and sportspersons what is Punjab youth doing?
+---
+title: "The Evergreen movie list"
+categories:
+  - Casual
+tags:
+  - Movie
+  - Suggestion
+---
+In this age of movies filled with nonsense story and excess VFX those who prefer to watch the simple things over and over again, here is list for you:
+- The Intern
+- Dear Zindagi
+- Fight Club
+- Devil wears Parada
+- Liar Liar
 
-Thinking about moving abroad or doing kala/chitta?
+...more additions on the way
